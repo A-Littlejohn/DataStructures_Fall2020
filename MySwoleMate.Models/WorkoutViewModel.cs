@@ -29,35 +29,35 @@ namespace MySwoleMate.Models
         {
             get
             {
-               return this.Exercise1 + ": " + this.Exercise1Sets + "x" + this.Exercise1Reps;
+               return this.Exercise1 + ": " + this.Exercise1Sets + " x " + this.Exercise1Reps;
             }
         }
         public string DisplayExercise2
         {
             get
             {
-                return this.Exercise2 + ": " + this.Exercise2Sets + "x" + this.Exercise2Reps;
+                return this.Exercise2 + ": " + this.Exercise2Sets + " x " + this.Exercise2Reps;
             }
         }
         public string DisplayExercise3
         {
             get
             {
-                return this.Exercise3 + ": " + this.Exercise3Sets + "x" + this.Exercise3Reps;
+                return this.Exercise3 + ": " + this.Exercise3Sets + " x " + this.Exercise3Reps;
             }
         }
         public string DisplayExercise4
         {
             get
             {
-                return this.Exercise4 + ": " + this.Exercise4Sets + "x" + this.Exercise4Reps;
+                return this.Exercise4 + ": " + this.Exercise4Sets + " x " + this.Exercise4Reps;
             }
         }
         public string DisplayExercise5
         {
             get
             {
-                return this.Exercise5 + ": " + this.Exercise5Sets + "x" + this.Exercise5Reps;
+                return this.Exercise5 + ": " + this.Exercise5Sets + " x " + this.Exercise5Reps;
             }
         }
     }
